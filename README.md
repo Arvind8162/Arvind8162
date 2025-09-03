@@ -4,8 +4,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arvind8162&theme=aura&hide_border=true" width="50%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arvind8162&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
 </div>
-<!-- Temp-->
-<img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400" style="margin: 0 0 10px 10px;">
 <!-- Tech Stack -->
 <div align="center">
   
