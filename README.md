@@ -9,7 +9,7 @@
 **👋 Hey, I'm Arvind!**  
 🚀 I love contributing to open source in my free time.  
 📚 Currently diving into NLP & LangChain.  
-🔍 Passionate about Cyber Security , Data Science & AI.
+🔍 Passionate about Cyber Security , Data Science & AI-ML.
 
 ---
 
