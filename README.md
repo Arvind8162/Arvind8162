@@ -50,12 +50,7 @@ They taped it in their logbook and called it a "bug"—making history! </p>
   [![](https://visitcount.itsvg.in/api?id=technologyhell&icon=10&color=6)](https://visitcount.itsvg.in)
 </div>
 # 🏆 Holopin Badges
-
-<p align="center">
-<a href="https://holopin.io/@arvind8162">
-  <img src="https://holopin.me/arvind8162?s=badge" width="200"/>
-</a>
-</p>
+[![Holopin](https://holopin.me/arvind8162?s=badge)](https://holopin.io/@arvind8162)
 <div align="center">
 <img align="left" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="150" />
 <img align="center" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="150" />
