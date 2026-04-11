@@ -49,7 +49,7 @@ They taped it in their logbook and called it a "bug"—making history! </p>
   
   [![](https://visitcount.itsvg.in/api?id=technologyhell&icon=10&color=6)](https://visitcount.itsvg.in)
 </div>
-## 🏆 Holopin Badges
+# 🏆 Holopin Badges
 
 <p align="center">
   <a href="https://holopin.io/@arvind8162">
